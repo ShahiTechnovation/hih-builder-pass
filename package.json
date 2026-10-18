@@ -1,0 +1,17 @@
+{
+  "name": "hih26-builder-pass",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Hack in Hills '26 — Community Builder Pass Generator (https://builder.hackinhills.com)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  }
+}
